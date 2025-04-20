@@ -18,16 +18,11 @@ OBS Studio
 InShot
 AI tools(ChatGpt, Bard)
 
-Result:
-https://www.linkedin.com/posts/sweta-sah-_dataanalysis-marketinginsights-codexchallenge-activity-7086448563680927744-mbcx?utm_source=share&utm_medium=member_desktop
 
 
-<img width="595" alt="image" src="https://github.com/Sweta-Sah/Food-Beverage-Industry-Insights./assets/132820867/cd4ddca3-52d8-47d8-b426-af99513cb759">
 
 
---Attained 3rd Rank
 
-<img width="538" alt="image" src="https://github.com/Sweta-Sah/Food-Beverage-Industry-Insights./assets/132820867/82cc38d5-509f-4347-84b6-48de0f1e54ec">
 
 
 
