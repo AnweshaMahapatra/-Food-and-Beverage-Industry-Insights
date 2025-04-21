@@ -11,6 +11,7 @@ Created a report presenting my analysis from market survey results.
 Tools and Techniques used-
 MySQL
 Microsoft Power BI
+Live Dashboard - https://www.novypro.com/create_project/food-and-bevrage-industry-insights
 
 
 
